@@ -38,3 +38,6 @@ Dia 6:
 
 - Calculo de porcentaje de infracciones en la fecha `1932-01-01`.
 - Calculo de porcentaje de infracciones en la hora `00:00`.
+
+Dia 7:
+- Creación de archivo `Data/Readme.md` con la conclusión.
