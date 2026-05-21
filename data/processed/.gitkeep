@@ -1,0 +1,5 @@
+
+!git add data/interim/speeding_fines.csv data/interim/plots/date.jpg data/interim/plots/fines.jpg data/interim/plots/hour.jpg data/interim/plots/hours.jpg data/interim/plots/months.jpg
+!git add data/processed/.gitkeep
+!git add data/raw/speeding_fines.csv
+!git add data/Readme.md
