@@ -46,3 +46,8 @@ Dia 8:
 - iniciacion de herramienta de versionado.
 - clonar repo.
 - creamos rama Sprint_2
+
+Dia 9:
+- Listado de Imagenes y peso.
+- Clasificacion de Imagenes segun resolucion.
+- Mostrando imagenes aleatorias.
