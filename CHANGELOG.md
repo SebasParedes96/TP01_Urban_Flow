@@ -61,3 +61,6 @@ Dia 11:
 - Extraccion de Patente de las imagenes.
 - Calculo de Ratio.
 - Match de imagenes del dataset con nuestro CSV limpio.
+
+Dia 12:
+- Visualizacion de Resultados.
