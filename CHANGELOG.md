@@ -51,3 +51,8 @@ Dia 9:
 - Listado de Imagenes y peso.
 - Clasificacion de Imagenes segun resolucion.
 - Mostrando imagenes aleatorias.
+
+Dia 10:
+- Conversión a escala de grises.
+- Suavizado.
+- Reconocimiento de Bordes.
