@@ -56,3 +56,8 @@ Dia 10:
 - Conversión a escala de grises.
 - Suavizado.
 - Reconocimiento de Bordes.
+
+Dia 11:
+- Extraccion de Patente de las imagenes.
+- Calculo de Ratio.
+- Match de imagenes del dataset con nuestro CSV limpio.
