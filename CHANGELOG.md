@@ -41,3 +41,8 @@ Dia 6:
 
 Dia 7:
 - Creación de archivo `Data/Readme.md` con la conclusión.
+
+Dia 8:
+- iniciacion de herramienta de versionado.
+- clonar repo.
+- creamos rama Sprint_2
