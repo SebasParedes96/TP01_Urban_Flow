@@ -18,3 +18,13 @@ produjeron mas infracciones fue **AV LIBERTADOR** con 708 infracciones.
 - La resultande de las fechas y horas invalidas se obtubieron el porcentaje de
 infracciones en la fecha `1932-01-01` fue del 26.44% y el porcentaje de infracciones
 a la hora `00:00` fue del 19.79%.
+
+En este trabajo practico, exploramos la integración de datos de multas con 
+información visual de patentes. Las imágenes actúan como evidencia crucial, 
+complementando los registros de texto para validar infracciones. Sin embargo, 
+la extracción de patentes mediante OCR presentó desafíos, con muchas imágenes 
+sin coincidencia o con bajos ratios, lo que subraya la necesidad de mejorar los 
+algoritmos de procesamiento de imágenes. Las métricas resultantes revelan que 
+una parte significativa de las multas carece de evidencia visual válida o tiene 
+imágenes que no pudieron ser correctamente asociadas, indicando áreas clave para 
+optimizar la captura y el análisis de datos visuales en el futuro.

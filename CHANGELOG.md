@@ -64,3 +64,6 @@ Dia 11:
 
 Dia 12:
 - Visualizacion de Resultados.
+
+Dia 13:
+- Conclucion del Trabajo Practico.
