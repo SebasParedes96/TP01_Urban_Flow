@@ -94,3 +94,6 @@ Dia 20:
 
 Dia 21:
 - Creación y poblamiento de la base de datos vectorial patente_vectorial con OpenClip.
+
+Dia 22:
+- Implementación de la función buscar_patente_imagen utilizando ChromaDB.
