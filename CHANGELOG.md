@@ -72,3 +72,7 @@ Dia 14:
 - Configuración inicial de Git.
 - Clonación del repositorio.
 - Creación y cambio a la rama 'Sprint_3'.
+
+Dia 15:
+- Migración de archivos binarios a DVC.
+- Configuración de remote DVC.
