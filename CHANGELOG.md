@@ -97,3 +97,6 @@ Dia 21:
 
 Dia 22:
 - Implementación de la función buscar_patente_imagen utilizando ChromaDB.
+
+Dia 23:
+- Redacción de la conclusión del Sprint 3.

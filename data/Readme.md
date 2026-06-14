@@ -28,3 +28,14 @@ algoritmos de procesamiento de imágenes. Las métricas resultantes revelan que
 una parte significativa de las multas carece de evidencia visual válida o tiene 
 imágenes que no pudieron ser correctamente asociadas, indicando áreas clave para 
 optimizar la captura y el análisis de datos visuales en el futuro.
+
+## Conclusion - Sprint 3
+
+El Sprint 3 ha permitido la profesionalización del sistema de gestión de multas
+, migrando desde un enfoque basado en archivos CSV a una arquitectura robusta
+con base de datos relacional y vectorial. La implementación de SQLAlchemy
+facilitó la persistencia y consulta estructurada de datos, mientras que
+ChromaDB con OpenClip habilitó capacidades avanzadas de búsqueda por similitud
+de imágenes, unificando la información de multas y evidencias visuales. Este
+enfoque mejora la integridad, escalabilidad y eficiencia del sistema, sentando
+las bases para futuras expansiones y análisis más complejos.
