@@ -76,3 +76,6 @@ Dia 14:
 Dia 15:
 - Migración de archivos binarios a DVC.
 - Configuración de remote DVC.
+
+Dia 16:
+- Diseño del modelo lógico (clases Python: Vehiculo, Radar, Evidencia, Multa).
