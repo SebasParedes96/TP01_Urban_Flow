@@ -88,3 +88,6 @@ Dia 18:
 
 Dia 19:
 - Creación y poblamiento de la base de datos transito.db con datos del CSV.
+
+Dia 20:
+- Implementación de consultas SQL para análisis de multas.
