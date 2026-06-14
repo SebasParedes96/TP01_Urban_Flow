@@ -1,0 +1,5 @@
+outs:
+- md5: 00fe6b7c506061e744da394985d5fa35
+  size: 143360
+  hash: md5
+  path: transito.db

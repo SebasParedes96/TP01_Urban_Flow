@@ -85,3 +85,6 @@ Dia 17:
 
 Dia 18:
 - Diseño del modelo relacional con SQLAlchemy (VehiculoDB, RadarDB, EvidenciaDB, MultaDB).
+
+Dia 19:
+- Creación y poblamiento de la base de datos transito.db con datos del CSV.
