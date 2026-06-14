@@ -91,3 +91,6 @@ Dia 19:
 
 Dia 20:
 - Implementación de consultas SQL para análisis de multas.
+
+Dia 21:
+- Creación y poblamiento de la base de datos vectorial patente_vectorial con OpenClip.
