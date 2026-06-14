@@ -82,3 +82,6 @@ Dia 16:
 
 Dia 17:
 - Implementación de la función procesar_fila_csv.
+
+Dia 18:
+- Diseño del modelo relacional con SQLAlchemy (VehiculoDB, RadarDB, EvidenciaDB, MultaDB).
