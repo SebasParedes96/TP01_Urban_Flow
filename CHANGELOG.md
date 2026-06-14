@@ -67,3 +67,8 @@ Dia 12:
 
 Dia 13:
 - Conclucion del Trabajo Practico.
+
+Dia 14:
+- Configuración inicial de Git.
+- Clonación del repositorio.
+- Creación y cambio a la rama 'Sprint_3'.
