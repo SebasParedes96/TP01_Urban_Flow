@@ -79,3 +79,6 @@ Dia 15:
 
 Dia 16:
 - Diseño del modelo lógico (clases Python: Vehiculo, Radar, Evidencia, Multa).
+
+Dia 17:
+- Implementación de la función procesar_fila_csv.
